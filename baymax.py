@@ -82,5 +82,5 @@ if __name__ == "__main__":
                 elif "open mail" in speech:
                     webbrowser.open("https://outlook.office.com/mail/inbox")
 
-                else: 
+                else:  
                     speak("Sorry, Unable to recognise your command now, As I am still learning.")
