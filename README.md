@@ -1,2 +1,3 @@
-# Baymax---Python_Project-
-BAYMAX is an Python based virtual assistant.
+**BAYMAX**
+
+BAYMAX is an Python based virtual assistant which can perform some tasks on voice commands.
