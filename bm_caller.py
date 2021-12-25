@@ -6,7 +6,7 @@ import os
 
 engine = pyttsx3.init('sapi5')
 voices = engine.getProperty('voices')
-voice_id_Brian22 = "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\IVONA 2 Voice Brian22"
+voice_id_Brian22 = "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-US_ZIRA_11.0"
 engine.setProperty('voice', voice_id_Brian22)
 
 
